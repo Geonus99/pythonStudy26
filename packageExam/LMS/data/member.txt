@@ -1,0 +1,3 @@
+kkw|1234|김기민|admin|True
+agw|1234|안건우|manager|True
+abc|1234|우건안|user|True

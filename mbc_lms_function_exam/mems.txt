@@ -1,0 +1,3 @@
+agw|1234|안건우|user|True
+abc|4567|우건안|user|True
+aaa|8888|건안우|admin|True
