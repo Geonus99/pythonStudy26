@@ -169,6 +169,7 @@ class MemberService:
                 sql = "select * from members"
                 cursor.execute(sql)
                 all = cursor.fetchall()
-                print(all)
+                for m in all:
+                    print(m)
         finally:
             conn.close()
